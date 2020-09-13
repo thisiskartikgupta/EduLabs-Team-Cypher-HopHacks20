@@ -40,7 +40,7 @@
 ###### Implementing Lean Touch, Virtual Buttons and other features in AR.
 
 ## What's next for "EduLabs"
-###### 1. Creating a web portal for teacher where they can check the progress and their activity in EduLabs.
+###### 1. Creating a web portal for teacher where they can check the progress of their students in EduLabs.
 ###### 2. Scaling up our application so that millions of students across the world can be benefitted.
 
 ##   Our Team
