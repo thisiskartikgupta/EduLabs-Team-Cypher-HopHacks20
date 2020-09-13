@@ -43,5 +43,5 @@ I hope some hackers learn how to write good Devpost submissions
 
 ##   Our Team
 ##### 1. Deepak Chaturvedi <a href="https://www.linkedin.com/in/deepak-chaturvedi-467a9b194/">Linkedin</a>
-##### 2. Kartik Gupta <a href="https://www.linkedin.coom/in/thisiskartikgupta/">Linkedin</a>
+##### 2. Kartik Gupta <a href="https://www.linkedin.com/in/thisiskartikgupta/">Linkedin</a>
 <img src="https://github.com/thisiskartikgupta/EduLabs-Team-Cyphers-HopHacks20/blob/master/README%20files/END.png" height=300 width=820></img>
