@@ -43,7 +43,7 @@ android {
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 30
-        applicationId 'com.AR.ChemLab'
+        applicationId 'com.AR.EduLab'
         ndk {
             abiFilters 'armeabi-v7a', 'x86'
         }
