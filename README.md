@@ -17,8 +17,9 @@
 ###### giving them a real-life experience. So, we propose EduLabs as an alternative to the online laboratory education.
 
 ## What does EduLabs do?
-###### EduLabs empowers both the teacher as well as the students to visualize the laboratory education through an immersive
-###### Augmented Reality(AR) experience. 
+###### EduLabs empowers the students to visualize the laboratory education through an immersive Augmented Reality(AR)
+###### experience. Students can learn at their pace at the comfort of their homes. All this is made possible through 
+###### a mobile application without any additional burden.
 
 ## How We built it
 ###### Our Team built EduLabs using  :
@@ -30,16 +31,17 @@
 </ul>
 
 ## Challenges We ran into
-Lean Touch
+###### Creating an immersive experience 
 
 ## Accomplishments that I'm proud of
-Pta ni
+###### Creating a fully functional Augmented Reality app in a short span of time
 
 ## What I learned
-How to code, react, etc.
+###### Implementing Lean Touch, Virtual Buttons and other features in AR.
 
 ## What's next for "EduLabs"
-I hope some hackers learn how to write good Devpost submissions
+###### 1. Creating a web portal for teacher where they can check the progress and their activity in EduLabs.
+###### 2. Scaling up our application so that millions of students across the world can be benefitted.
 
 ##   Our Team
 ##### 1. Deepak Chaturvedi <a href="https://www.linkedin.com/in/deepak-chaturvedi-467a9b194/">Linkedin</a>
