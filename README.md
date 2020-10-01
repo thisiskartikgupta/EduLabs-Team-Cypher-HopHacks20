@@ -21,7 +21,7 @@
 ###### experience. Students can learn at their pace at the comfort of their homes. All this is made possible through 
 ###### a mobile application without any additional burden.
 
-## How We built it
+## How We built it !
 ###### Our Team built EduLabs using  :
 <ul>
   <li> <b>Unity</b> </li>
